@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+}
+
+iframe{
+    height:700px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
